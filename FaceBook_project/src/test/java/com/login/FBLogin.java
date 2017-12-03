@@ -11,6 +11,8 @@ public class FBLogin {
 		driver.get("https://mvnrepository.com/");
 		
 		System.out.println("Open App");
+		
+		System.out.println("Close App");
 
 	}
 
